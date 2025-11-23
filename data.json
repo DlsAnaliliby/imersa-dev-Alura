@@ -1,0 +1,152 @@
+[
+    {
+        "nome":"JavaScript",
+        "descricao":"O JS é a linguagem da web",
+        "ano":1995,
+        "link":"https://pt.wikipedia.org/wiki/JavaScript"
+    },
+    {
+        "nome":"Python",
+        "descricao":"Python é uma linguagem de programação de alto nível, conhecida por sua sintaxe clara e legível, sendo muito utilizada em desenvolvimento web, ciência de dados e automação.",
+        "ano":1991,
+        "link":"https://pt.wikipedia.org/wiki/Python"
+    },
+    {
+        "nome": "Java",
+        "descricao": "Java é uma linguagem de programação orientada a objetos e uma plataforma de computação.",
+        "ano": 1995,
+        "link": "https://pt.wikipedia.org/wiki/Java_(linguagem_de_programação)"
+    },
+    {
+        "nome": "C#",
+        "descricao": "C# (C Sharp) é uma linguagem de programação moderna, orientada a objetos e desenvolvida pela Microsoft.",
+        "ano": 2000,
+        "link": "https://pt.wikipedia.org/wiki/C_Sharp"
+    },
+    {
+        "nome": "Ruby",
+        "descricao": "Ruby é uma linguagem de programação interpretada, de tipagem dinâmica e forte, com foco na simplicidade e produtividade.",
+        "ano": 1995,
+        "link": "https://pt.wikipedia.org/wiki/Ruby"
+    },
+    {
+        "nome": "PHP",
+        "descricao": "PHP é uma linguagem de script de uso geral, muito utilizada para o desenvolvimento web.",
+        "ano": 1995,
+        "link": "https://pt.wikipedia.org/wiki/PHP"
+    },
+    {
+        "nome": "Go",
+        "descricao": "Go (ou Golang) é uma linguagem de programação de código aberto desenvolvida pelo Google. É compilada, concorrente e tem coleta de lixo.",
+        "ano": 2009,
+        "link": "https://pt.wikipedia.org/wiki/Go_(linguagem_de_programação)"
+    },
+    {
+        "nome": "Swift",
+        "descricao": "Swift é uma linguagem de programação poderosa e intuitiva criada pela Apple para desenvolver apps para iOS, Mac, Apple TV e Apple Watch.",
+        "ano": 2014,
+        "link": "https://pt.wikipedia.org/wiki/Swift_(linguagem_de_programação)"
+    },
+    {
+        "nome": "Kotlin",
+        "descricao": "Kotlin é uma linguagem de programação multiplataforma, de tipagem estática, desenvolvida pela JetBrains, que compila para a JVM e é a linguagem preferida para desenvolvimento Android.",
+        "ano": 2011,
+        "link": "https://pt.wikipedia.org/wiki/Kotlin_(linguagem_de_programação)"
+    },
+    {
+        "nome": "TypeScript",
+        "descricao": "TypeScript é um superconjunto de JavaScript desenvolvido pela Microsoft que adiciona tipagem estática opcional à linguagem.",
+        "ano": 2012,
+        "link": "https://pt.wikipedia.org/wiki/TypeScript"
+    },
+    {
+        "nome": "C++",
+        "descricao": "C++ é uma linguagem de programação de propósito geral, multi-paradigma e compilada, que é uma extensão da linguagem C.",
+        "ano": 1985,
+        "link": "https://pt.wikipedia.org/wiki/C%2B%2B"
+    },
+    {
+        "nome": "Rust",
+        "descricao": "Rust é uma linguagem de programação compilada, de múltiplos paradigmas, focada em segurança, especialmente segurança de concorrência.",
+        "ano": 2010,
+        "link": "https://pt.wikipedia.org/wiki/Rust_(linguagem_de_programação)"
+    },
+    {
+        "nome": "R",
+        "descricao": "R é uma linguagem de programação e um ambiente de software livre para computação estatística e gráficos, muito popular em ciência de dados.",
+        "ano": 1993,
+        "link": "https://pt.wikipedia.org/wiki/R_(linguagem_de_programação)"
+    },
+    {
+        "nome": "Dart",
+        "descricao": "Dart é uma linguagem de programação desenvolvida pelo Google, otimizada para construir aplicativos rápidos para qualquer plataforma, sendo a base do framework Flutter.",
+        "ano": 2011,
+        "link": "https://pt.wikipedia.org/wiki/Dart_(linguagem_de_programação)"
+    },
+    {
+        "nome": "Elixir",
+        "descricao": "Elixir é uma linguagem de programação funcional, concorrente e de uso geral que roda na máquina virtual Erlang (BEAM).",
+        "ano": 2012,
+        "link": "https://pt.wikipedia.org/wiki/Elixir_(linguagem_de_programação)"
+    },
+    {
+        "nome": "Scala",
+        "descricao": "Scala é uma linguagem de programação de propósito geral que fornece suporte para programação funcional e um forte sistema de tipos estáticos, projetada para ser concisa.",
+        "ano": 2004,
+        "link": "https://pt.wikipedia.org/wiki/Scala"
+    },
+    {
+        "nome": "Haskell",
+        "descricao": "Haskell é uma linguagem de programação puramente funcional, de propósito geral, com semântica não estrita e forte tipagem estática.",
+        "ano": 1990,
+        "link": "https://pt.wikipedia.org/wiki/Haskell"
+    },
+    {
+        "nome": "Lua",
+        "descricao": "Lua é uma linguagem de programação multiparadigma, leve e interpretada, projetada para ser embutida em outras aplicações.",
+        "ano": 1993,
+        "link": "https://pt.wikipedia.org/wiki/Lua_(linguagem_de_programação)"
+    },
+    {
+        "nome": "Perl",
+        "descricao": "Perl é uma família de linguagens de programação de alto nível, de uso geral, interpretadas e dinâmicas, conhecida por seu poder em processamento de texto.",
+        "ano": 1987,
+        "link": "https://pt.wikipedia.org/wiki/Perl"
+    },
+    {
+        "nome": "Objective-C",
+        "descricao": "Objective-C é uma linguagem de programação reflexiva e orientada a objetos que adiciona mensagens no estilo Smalltalk à linguagem C. Foi a principal linguagem da Apple antes de Swift.",
+        "ano": 1984,
+        "link": "https://pt.wikipedia.org/wiki/Objective-C"
+    },
+    {
+        "nome": "Groovy",
+        "descricao": "Apache Groovy é uma linguagem de programação orientada a objetos e de tipagem dinâmica para a plataforma Java, que pode ser usada como linguagem de script.",
+        "ano": 2003,
+        "link": "https://pt.wikipedia.org/wiki/Groovy"
+    },
+    {
+        "nome": "Clojure",
+        "descricao": "Clojure é um dialeto moderno da linguagem de programação Lisp, de propósito geral, que roda na Máquina Virtual Java (JVM) e no Common Language Runtime (CLR).",
+        "ano": 2007,
+        "link": "https://pt.wikipedia.org/wiki/Clojure"
+    },
+    {
+        "nome": "Julia",
+        "descricao": "Julia é uma linguagem de programação de alto nível e alto desempenho para computação técnica, com uma sintaxe familiar para usuários de outros ambientes de computação.",
+        "ano": 2012,
+        "link": "https://pt.wikipedia.org/wiki/Julia_(linguagem_de_programação)"
+    },
+    {
+        "nome": "Zig",
+        "descricao": "Zig é uma linguagem de programação de sistemas de propósito geral e compilada, projetada para robustez, otimalidade e manutenibilidade.",
+        "ano": 2016,
+        "link": "https://en.wikipedia.org/wiki/Zig_(programming_language)"
+    },
+    {
+        "nome": "Crystal",
+        "descricao": "Crystal é uma linguagem de programação de propósito geral e orientada a objetos, com uma sintaxe inspirada em Ruby, que compila para código nativo.",
+        "ano": 2014,
+        "link": "https://en.wikipedia.org/wiki/Crystal_(programming_language)"
+    }
+]
